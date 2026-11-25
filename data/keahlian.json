@@ -1,0 +1,34 @@
+[
+  {
+    "nama": "HTML5 Semantic",
+    "level": "Menengah"
+  },
+  {
+    "nama": "CSS3 Flexbox",
+    "level": "Menengah"
+  },
+  {
+    "nama": "Responsive Design",
+    "level": "Menengah"
+  },
+  {
+    "nama": "Media Queries",
+    "level": "Dasar"
+  },
+  {
+    "nama": "Chrome DevTools",
+    "level": "Dasar"
+  },
+  {
+    "nama": "C++ untuk IoT",
+    "level": "Dasar"
+  },
+  {
+    "nama": "Git dan GitHub",
+    "level": "Dasar"
+  },
+  {
+    "nama": "JavaScript",
+    "level": "Dasar"
+  }
+]

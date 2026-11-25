@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak - Indra Yudhistira</title>
+    <link rel="icon" href="img/indra.jpeg">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+
+    <main class="page-wrapper">
+        <article class="panel">
+
+            <div class="panel-head">
+                <a class="tautan" href="index.html">&larr; Portofolio</a>
+                <button id="tombol-tema" class="tombol-tema" type="button" aria-pressed="false">
+                    Mode Gelap
+                </button>
+            </div>
+
+            <nav class="nav-halaman" aria-label="Navigasi halaman">
+                <a href="index.html">Beranda</a>
+                <a href="proyek.html">Proyek</a>
+                <a href="kontak.html" aria-current="page">Kontak</a>
+                <a href="kalkulator.html">Kalkulator</a>
+            </nav>
+
+            <h1>Hubungi Saya</h1>
+            <p class="keterangan">
+                Punya pertanyaan atau ingin bekerja sama? Kirim pesan lewat form di bawah.
+                Email: <a href="mailto:xx1ndr4@gmail.com">xx1ndr4@gmail.com</a>
+            </p>
+
+            <form id="formKontak" class="form-kontak" novalidate>
+                <div class="baris-isian">
+                    <label for="nama">Nama</label>
+                    <input type="text" id="nama" name="nama" placeholder="Nama lengkap" autocomplete="name" required>
+                </div>
+                <div class="baris-isian">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="nama@email.com" autocomplete="email" required>
+                </div>
+                <div class="baris-isian baris-pesan">
+                    <label for="pesan">Pesan</label>
+                    <div class="kolom-pesan">
+                        <textarea id="pesan" name="pesan" rows="5" maxlength="300" placeholder="Tulis pesanmu di sini" required></textarea>
+                        <span id="hitung-karakter" class="keterangan">0/300 karakter</span>
+                    </div>
+                </div>
+
+                <div class="aksi">
+                    <button type="submit" class="tombol-utama">Kirim Pesan</button>
+                    <button type="reset" class="tombol-teks">Kosongkan isian</button>
+                </div>
+            </form>
+
+            <p id="status-kontak" class="pesan" aria-live="polite"></p>
+
+        </article>
+    </main>
+
+</body>
+</html>

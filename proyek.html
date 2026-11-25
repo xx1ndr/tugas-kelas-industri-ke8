@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Proyek - Indra Yudhistira</title>
+    <link rel="icon" href="img/indra.jpeg">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+
+    <main class="page-wrapper">
+        <article class="panel panel-lebar">
+
+            <div class="panel-head">
+                <a class="tautan" href="index.html">&larr; Portofolio</a>
+                <button id="tombol-tema" class="tombol-tema" type="button" aria-pressed="false">
+                    Mode Gelap
+                </button>
+            </div>
+
+            <nav class="nav-halaman" aria-label="Navigasi halaman">
+                <a href="index.html">Beranda</a>
+                <a href="proyek.html" aria-current="page">Proyek</a>
+                <a href="kontak.html">Kontak</a>
+                <a href="kalkulator.html">Kalkulator</a>
+            </nav>
+
+            <h1>Daftar Proyek</h1>
+            <p class="keterangan">
+                Proyek di halaman ini dibuat dengan HTML, CSS, dan JavaScript.
+                Pilih tombol kategori di atas untuk melihat proyek per bahasa.
+            </p>
+
+            <div class="filter">
+                <button type="button" class="tombol-filter aktif" id="filter-semua">Semua</button>
+                <button type="button" class="tombol-filter" id="filter-html">HTML</button>
+                <button type="button" class="tombol-filter" id="filter-css">CSS</button>
+                <button type="button" class="tombol-filter" id="filter-javascript">JavaScript</button>
+            </div>
+
+            <p id="jumlah-proyek" class="keterangan" aria-live="polite"></p>
+            <div class="daftar-kartu" id="daftar-proyek"></div>
+
+            <section class="kartu-repo">
+                <h2>Repositori GitHub Saya</h2>
+                <p>Daftar ini diambil langsung dari GitHub setiap kali halaman dibuka.</p>
+                <p id="status-repo"></p>
+                <ul id="daftar-repo"></ul>
+            </section>
+
+            <section class="faq">
+                <h2>Pertanyaan Umum</h2>
+                <details open>
+                    <summary>Proyek apa saja yang ada di halaman ini?</summary>
+                    <p>Proyek di halaman ini dibuat dengan HTML, CSS, dan JavaScript.
+                        Pilih tombol kategori di atas untuk melihat proyek per bahasa.</p>
+                </details>
+                <details>
+                    <summary>Bagaimana cara menambah proyek baru?</summary>
+                    <p>Cukup tambahkan satu object baru ke <code>data/proyek.json</code>.
+                        Kartu dan jumlah proyek otomatis ikut berubah.</p>
+                </details>
+            </section>
+
+        </article>
+    </main>
+
+</body>
+</html>

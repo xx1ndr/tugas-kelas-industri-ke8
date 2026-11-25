@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Digital Responsive - Indra Yudhistira</title>
+    <link rel="icon" href="img/indra.jpeg">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+    
+    <main class="page-wrapper">
+       <article class="profile-card">
+         
+        <header class="card-aside">
+          <button id="tombol-tema" class="tombol-tema" type="button" aria-pressed="false">
+            Mode Gelap
+          </button>
+          <div class="avatar-box">
+            <img src="img/indra.jpeg" alt="Foto profil Indra Yudhistira" class="avatar-icon">
+          </div>
+          <h1 class="student-name">Indra Yudhistira</h1>
+          <p class="student-role">Junior Web Developer</p>
+          <p class="student-school">SMKN Takeran - RPL 1</p>
+          <a href="mailto:xx1ndr4@gmail.com" target="_blank" class="btn-contact" id="btnKontak">Kirim Pesan</a>
+          <nav class="nav-halaman" aria-label="Navigasi halaman">
+            <a href="index.html" aria-current="page">Beranda</a>
+            <a href="proyek.html">Proyek</a>
+            <a href="kontak.html">Kontak</a>
+            <a href="kalkulator.html">Kalkulator</a>
+          </nav>
+        </header>
+
+        <section class="card-content">
+          <div>
+            <h2 class="section-heading">Tentang Saya</h2>
+            <p class="bio-text">
+              Saya adalah Siswa dari SMKN Takeran kelas 10 Rekayasa Perangkat Lunak yang berfokus mendalami
+              arsitektur Front-End modern, tata letak CSS Flexbox, serta prinsip
+              Mobile-First Responsive Design standar industri. Saya juga mempelajari
+              C++ untuk perangkat IoT.
+            </p>
+          </div>
+
+          <div class="skills-section">
+            <h2 class="section-heading">Keahlian & Kompetensi</h2>
+            <ul id="daftar-skill" class="skill-matrix"></ul>
+            <p id="jumlah-skill" class="keterangan"></p>
+          </div>
+        </section>
+
+       </article>
+    </main>
+    <div id="modalkontak" class="modal-overlay">
+      <div class="modal-box">
+        <h2>Kirim Pesan</h2>
+        <p>Silahkan hubungi saya melalui email : xx1ndr4@gmail.com</p>
+        <button id="btnTutupModal">Tutup</button>
+      </div>
+    </div>
+</body>
+</html>
