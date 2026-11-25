@@ -1,5 +1,19 @@
 [
   {
+    "judul": "Halaman Index Awal",
+    "kategori": "HTML",
+    "gambar": "img/proyek-index-awal.png",
+    "alt": "Tangkapan layar halaman index pertama",
+    "deskripsi": "Halaman index berisi nama, kelas, dan daftar hobi dengan HTML dasar."
+  },
+  {
+    "judul": "Halaman Profil Pertama",
+    "kategori": "HTML",
+    "gambar": "img/proyek-profil.png",
+    "alt": "Tangkapan layar halaman profil pertama",
+    "deskripsi": "Halaman web pertama saya, dibuat dengan HTML dasar."
+  },
+  {
     "judul": "Portofolio Responsif",
     "kategori": "CSS",
     "gambar": "img/proyek-responsif.png",
