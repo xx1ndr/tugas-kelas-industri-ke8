@@ -1,44 +1,23 @@
 [
   {
-    "judul": "Halaman Profil Pertama",
-    "kategori": "HTML",
-    "gambar": "img/proyek-profil.png",
-    "alt": "Tangkapan layar halaman profil pertama",
-    "deskripsi": "Halaman web pertama saya, dibuat dengan HTML dasar."
-  },
-  {
-    "judul": "Form Kontak",
-    "kategori": "HTML",
-    "gambar": "img/proyek-kontak.png",
-    "alt": "Tangkapan layar form kontak",
-    "deskripsi": "Form dengan label dan validasi bawaan browser."
-  },
-  {
-    "judul": "Tabel Jadwal Belajar",
-    "kategori": "HTML",
-    "gambar": "img/proyek-jadwal.png",
-    "alt": "Tangkapan layar tabel jadwal belajar",
-    "deskripsi": "Jadwal belajar mingguan dengan thead dan tbody."
-  },
-  {
     "judul": "Portofolio Responsif",
     "kategori": "CSS",
     "gambar": "img/proyek-responsif.png",
-    "alt": "Tangkapan layar portofolio responsif",
-    "deskripsi": "Rapi di ponsel, tablet, dan laptop dengan Flexbox."
+    "alt": "Tangkapan layar beranda portofolio di Vercel",
+    "deskripsi": "Beranda portofolio yang tata letaknya menyesuaikan ponsel, tablet, dan laptop."
   },
   {
     "judul": "Kalkulator Nilai Rapor",
     "kategori": "JavaScript",
     "gambar": "img/proyek-kalkulator.png",
-    "alt": "Tangkapan layar hasil kalkulator nilai",
-    "deskripsi": "Rata-rata, predikat, dan status KKM dengan fungsi JavaScript."
+    "alt": "Kode perhitungan rata-rata dan predikat nilai rapor",
+    "deskripsi": "Fungsi rata-rata, predikat, dan status KKM untuk nilai rapor."
   },
   {
     "judul": "Lima Soal Logika",
     "kategori": "JavaScript",
     "gambar": "img/proyek-logika.png",
-    "alt": "Tangkapan layar hasil uji lima soal logika",
+    "alt": "Kode lima fungsi logika di VS Code",
     "deskripsi": "Lima fungsi logika yang masing-masing diuji tiga masukan."
   }
 ]
