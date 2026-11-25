@@ -1,0 +1,218 @@
+[
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Kode index.html",
+    "gambar": "img/dokumentasi/m1-kode-index.png",
+    "keterangan": "Struktur dasar halaman dengan judul dan identitas."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Kode style.css",
+    "gambar": "img/dokumentasi/m1-kode-style.png",
+    "keterangan": "Font, ukuran foto, dan tata letak awal."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Kode latihan1.html",
+    "gambar": "img/dokumentasi/m1-kode-latihan1-html.png",
+    "keterangan": "Halaman profil pertama dengan kartu bio."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Kode latihan1.css",
+    "gambar": "img/dokumentasi/m1-kode-latihan1-css.png",
+    "keterangan": "Aturan tampilan kartu profil."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Halaman index",
+    "gambar": "img/dokumentasi/m1-halaman-index.png",
+    "keterangan": "Nama, kelas, hobi, dan daftar hobi di browser."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Halaman profil",
+    "gambar": "img/dokumentasi/m1-halaman-profil.png",
+    "keterangan": "Profil dengan perkenalan dan daftar keahlian."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "Kode heading",
+    "gambar": "img/dokumentasi/m1-kode-heading.png",
+    "keterangan": "Penggunaan h1 sampai h6 dan paragraf."
+  },
+  {
+    "grup": "Modul 1 - HTML dasar",
+    "judul": "CSS heading",
+    "gambar": "img/dokumentasi/m1-kode-heading-css.png",
+    "keterangan": "Warna heading dan pengaturan gambar."
+  },
+  {
+    "grup": "Proyek IoT - ESP32",
+    "judul": "ESP32 01",
+    "gambar": "img/dokumentasi/iot-esp32-01.png",
+    "keterangan": "Dokumentasi perangkat ESP32."
+  },
+  {
+    "grup": "Proyek IoT - ESP32",
+    "judul": "ESP32 02",
+    "gambar": "img/dokumentasi/iot-esp32-02.png",
+    "keterangan": "Boot ESP32, alamat WiFi, dan webui."
+  },
+  {
+    "grup": "Modul 2 - Layout responsif",
+    "judul": "Lebar 320 px",
+    "gambar": "img/dokumentasi/m2-responsif-320.png",
+    "keterangan": "Tampilan profil pada lebar 320 px."
+  },
+  {
+    "grup": "Modul 2 - Layout responsif",
+    "judul": "Profil responsif",
+    "gambar": "img/dokumentasi/m2-profil-responsive.png",
+    "keterangan": "Tampilan profil di lebar desktop."
+  },
+  {
+    "grup": "Modul 2 - Layout responsif",
+    "judul": "Kode latihan2.html",
+    "gambar": "img/dokumentasi/m2-kode-latihan2-html.png",
+    "keterangan": "Struktur profil dengan article dan header."
+  },
+  {
+    "grup": "Modul 2 - Layout responsif",
+    "judul": "Kode latihan2.css",
+    "gambar": "img/dokumentasi/m2-kode-latihan2-css.png",
+    "keterangan": "Aturan flexbox dan media query."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Kode latihan2.html",
+    "gambar": "img/dokumentasi/m3-kode-latihan2-html.png",
+    "keterangan": "Struktur halaman profil lanjutan."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Kode latihan2.css",
+    "gambar": "img/dokumentasi/m3-kode-latihan2-css.png",
+    "keterangan": "Warna latar, teks, dan page wrapper."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Kode latihan2.js",
+    "gambar": "img/dokumentasi/m3-kode-latihan2-js.png",
+    "keterangan": "Tombol tema dengan classList.toggle."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Halaman profil",
+    "gambar": "img/dokumentasi/m3-profil.png",
+    "keterangan": "Tampilan profil setelah perubahan tema."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Modal kontak",
+    "gambar": "img/dokumentasi/m3-modal.png",
+    "keterangan": "Kotak dialog berisi email dan tombol tutup."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Mode gelap",
+    "gambar": "img/dokumentasi/m3-mode-gelap.png",
+    "keterangan": "Profil dengan tema gelap aktif."
+  },
+  {
+    "grup": "Modul 3 - Tema dan modal",
+    "judul": "Modal saat gelap",
+    "gambar": "img/dokumentasi/m3-modal-gelap.png",
+    "keterangan": "Kotak dialog pada tema gelap."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Kode logika dan kalkulator",
+    "gambar": "img/dokumentasi/m6-kode-logika-kalkulator.png",
+    "keterangan": "Fungsi ganjil genap, Fahrenheit, dan nilai terbesar."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Kode logika",
+    "gambar": "img/dokumentasi/m6-kode-logika-2.png",
+    "keterangan": "Fungsi logika dan uji tiga masukan."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Kode nilai rapor",
+    "gambar": "img/dokumentasi/m6-kode-nilai-rapor.png",
+    "keterangan": "Rata-rata, predikat, dan status KKM."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Kode lima soal logika",
+    "gambar": "img/dokumentasi/m6-kode-soal-logika.png",
+    "keterangan": "Lima fungsi beserta hasil pengujiannya."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Console beranda",
+    "gambar": "img/dokumentasi/m6-konsol-beranda.png",
+    "keterangan": "Hasil kalkulator dan logika tampil di Console."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Commit GitHub",
+    "gambar": "img/dokumentasi/m6-github-commits.png",
+    "keterangan": "Riwayat commit kalkulator.html."
+  },
+  {
+    "grup": "Modul 6 - JavaScript",
+    "judul": "Profil GitHub",
+    "gambar": "img/dokumentasi/m6-github-profil.png",
+    "keterangan": "Daftar repositori di akun GitHub."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Kode main.js",
+    "gambar": "img/dokumentasi/m7-kode-main.png",
+    "keterangan": "Array keahlian yang nanti dipindah ke JSON."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Beranda di Vercel",
+    "gambar": "img/dokumentasi/m7-beranda-vercel.png",
+    "keterangan": "Halaman profil yang sudah tayang."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Daftar proyek",
+    "gambar": "img/dokumentasi/m7-proyek-vercel.png",
+    "keterangan": "Enam kartu proyek dengan tombol filter."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Tampilan terang",
+    "gambar": "img/dokumentasi/m7-tampilan-terang.png",
+    "keterangan": "Halaman beranda dengan tema terang."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Tampilan gelap",
+    "gambar": "img/dokumentasi/m7-tampilan-gelap.png",
+    "keterangan": "Halaman beranda dengan tema gelap."
+  },
+  {
+    "grup": "Modul 7 - Portofolio dinamis",
+    "judul": "Filter proyek",
+    "gambar": "img/dokumentasi/m7-filter-proyek.png",
+    "keterangan": "Kartu proyek setelah tombol filter dipakai."
+  },
+  {
+    "grup": "Modul 8 - JSON dan Fetch",
+    "judul": "Daftar repositori",
+    "gambar": "img/dokumentasi/m8-daftar-repo.png",
+    "keterangan": "Repositori GitHub yang dimuat otomatis."
+  },
+  {
+    "grup": "Modul 8 - JSON dan Fetch",
+    "judul": "Pesan error",
+    "gambar": "img/dokumentasi/m8-pesan-error.png",
+    "keterangan": "Pesan ramah saat username sengaja salah."
+  }
+]
